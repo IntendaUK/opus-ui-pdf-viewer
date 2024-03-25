@@ -1,0 +1,13 @@
+{
+    "propSpecConfig": {
+        "path": "src/components/pdfViewer/props.js",
+        "functions": [],
+        "dependents": [
+            {
+                "path": "src/components/pdfViewer/internalProps.js",
+                "functions": [],
+                "dependents": []
+            }
+        ]
+    }
+}
