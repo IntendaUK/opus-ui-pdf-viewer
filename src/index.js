@@ -11,7 +11,7 @@ import { PdfViewer } from './components/pdfViewer';
 import propsPdfViewer from './components/pdfViewer/props';
 
 //Opus Lib
-import Opus from 'opus-ui';
+import Opus from '@intenda/opus-ui';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 

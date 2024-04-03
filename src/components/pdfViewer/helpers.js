@@ -1,5 +1,5 @@
 //System
-import { localStorageGetItem, localStorageRemoveItem, localStorageAddItem } from 'opus-ui';
+import { localStorageGetItem, localStorageRemoveItem, localStorageAddItem } from '@intenda/opus-ui';
 
 export const persistConfig = props => {
 	const { state, state: { serializeKeys, localStoragePrefix, value } } = props;
